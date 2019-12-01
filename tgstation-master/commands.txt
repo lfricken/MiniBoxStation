@@ -1,0 +1,23 @@
+
+
+In Game:
+
+Admin
+	Aghost
+	Jump to Coordinate
+	Shuttle Manipulator
+
+
+Debug
+	Spawn
+
+
+
+Fun
+	
+
+
+
+
+
+
